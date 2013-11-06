@@ -1,0 +1,235 @@
+body.inicio{
+
+background:url(../img/fondo1.jpg) center repeat fixed;
+
+}
+
+body.catalogos{
+
+background:url(../img/fondo2.jpg) center repeat fixed;
+
+}
+
+body.actividades{
+
+background:url(../img/fondo5.jpg) center repeat fixed;
+
+}
+
+body.tienda{
+
+background:url(../img/fondo4.jpg) center repeat fixed;
+
+}
+
+body.contacto{
+
+background:url(../img/fondo3.jpg) center repeat fixed;
+
+}
+
+.head{
+
+position: fixed;
+
+background-color: 33cccc;
+
+width: 100%;
+
+height: 10%;
+
+z-index: 10;
+
+top: 12;
+
+left: 0;
+
+right: 0;
+
+}
+
+
+
+.menu{
+
+width: 80%;
+
+height: 100%;
+
+margin: 0 auto;
+
+padding: 0 15px;
+
+}
+
+
+
+.menu a{
+
+float:left;
+
+text-decoration:none;
+
+color:white;
+
+}
+
+
+
+.menu h1{
+
+font-family:Baumans;
+
+color:white;
+
+font-size:30px;
+
+}
+
+
+
+.menu img{
+
+float: left;
+
+}
+
+
+
+.item{
+
+float:right;
+
+padding-top:10px;
+
+}
+
+
+
+.item a{
+
+font-family:Baumans;
+
+color:white;
+
+font-size:17px;
+
+text-decoration:none;
+
+font-weight:bold;
+
+padding:10px;
+
+}
+
+
+
+.item a:hover {
+
+font-family:Baumans;
+
+color:white;
+
+font-size:17px;
+
+text-decoration:none;
+
+font-weight:bold;
+
+background-color:#5F9EA0;
+
+}
+
+.selected{
+
+background-color:#5F9EA0;
+color:white;
+
+}
+
+
+
+.contenedor{
+
+background-color:white;
+
+width:90%;
+
+margin:0 auto;
+
+}
+
+
+
+.pie{
+
+background-color:lightgrey;
+
+width:100%;
+
+height:10%;
+
+bottom:12;
+
+left: 0;
+
+right: 0;
+
+}
+
+
+
+.articulos{
+
+width:95%;
+
+margin:0 auto;
+
+height:95%;
+
+padding-top:10%;
+
+}
+
+
+
+.articulos th h1{
+
+font-family:Baumans;
+
+border:1px solid #5F9EA0;
+
+background-color:#48D1CC;
+
+color:white;
+
+}
+
+
+
+.art_destacado{
+
+height:300px;
+
+background-color:#F5F5F5;
+
+}
+
+
+
+.vacio{
+
+height:50%;
+
+}
+
+
+
+.art_otros{
+
+height:300px;
+
+background-color:#F5F5F5;
+
+}
+
