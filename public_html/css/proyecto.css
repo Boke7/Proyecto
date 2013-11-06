@@ -141,7 +141,8 @@ background-color:#5F9EA0;
 }
 
 .selected{
-
+border-right:2px solid 33cccc;
+border-left:2px solid 33cccc;
 background-color:#5F9EA0;
 color:white;
 
